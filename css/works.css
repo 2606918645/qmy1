@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(244,244,244);
+  background: url(../img/背景1.jpg) no-repeat  center 0;
+  background-size: 100% 100%;
+}
+
+.content-ta {
+  font-size: 15px;
+  font-weight: 580;
+  color: #009393;
+}
+
+#contentx-des-1 {
+  height: 300px;
+}
+
+#contentx-des-2 {
+  height: 820px;
+}
+
+#contentx-des-3 {
+  height: 260px;
+}
+
+#contentx-des-4 {
+  height: 950px;
+}

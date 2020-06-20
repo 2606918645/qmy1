@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(244,244,244);
+  background: url(../img/背景2.jpg) no-repeat  center 0;
+  background-size: 100% 100%;
+}
+
+#contentx-des-1 {
+  height: 260px;
+}
+
+.date {
+  width: 41px;
+  height: 34px;
+  float: left;
+}
+
+.year {
+  height: 16px;
+  line-height: 16px;
+  background-color: #bda15d;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+
+.month-day {
+  height: 15px;
+  line-height: 15px;
+  background-color: #fff;
+  border-top: 1px solid #fff;
+  color: #bda15d;
+  font-size: 12px;
+  text-align: center;
+}
+
+.bookname {
+  width: 260px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  background-color: #bda15d;
+  color: #fff;
+}
+
+#contentx-des-2 {
+  height: 160px;
+}
